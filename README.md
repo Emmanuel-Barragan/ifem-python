@@ -7,4 +7,4 @@ I understand the benefits of using Computer Algebra Systems like Mathematica, es
 
 The files are divided by chapter. Any chapter that is specifically devoted to a computational implementation will get a file here. Likewise, each file is self-contained.  
 
-Of course, full credit to the original work by Professor Felippa. *IFEM* is a brilliant book, and it's worth a thourough read. 
+Of course, full credit to the original work by Professor Felippa. *IFEM* is a brilliant book, and it's worth a thorough read. 
